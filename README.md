@@ -16,4 +16,6 @@ desc
 
 ## How To Contribute
 
+Contribute
+
 Copyright
